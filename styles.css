@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    padding-top: 2rem;
+}
+
+hr {
+    border: 1px black solid;
+}
